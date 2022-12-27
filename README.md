@@ -1,0 +1,1 @@
+The weights are downloaded but this is better tested on Colab due to the version of transformers I'm using.
